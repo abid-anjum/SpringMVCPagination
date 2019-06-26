@@ -5,3 +5,6 @@ Spring MVC server side pagination app.
 we can filter record like rownum etc.
 
 # Screen
+
+![Screenshot](pagination.png)
+
